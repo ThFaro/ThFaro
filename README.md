@@ -4,9 +4,10 @@ Atualmente em transição para a área de T.I, comecei minha jornada acadêmica 
 
 Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sistemas. Durante esse tempo, já tive a oportunidade de adquirir conhecimentos como:
 
-- JAVA (INTERMEDIÁRIO)
-- HTML (INTERMEDIÁRIO)
-- CSS (BÁSICO)
+- JAVA 
+- HTML 
+- CSS
+- SQL 
 - CONHECIMENTO DE PMBOK 
 - METODOLOGIA ÁGIL 
 - ARQUITETURA DE COMPUTADORES
