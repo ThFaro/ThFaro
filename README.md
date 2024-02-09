@@ -4,7 +4,8 @@ Atualmente em transição para a área de T.I, comecei minha jornada acadêmica 
 
 Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sistemas. Durante esse tempo, já tive a oportunidade de adquirir conhecimentos como:
 
-- JAVA 
+- JAVA
+- PYTHON
 - HTML 
 - CSS
 - SQL 
