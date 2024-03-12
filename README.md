@@ -6,6 +6,7 @@ Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sis
 
 - JAVA
 - PYTHON
+- Javascript
 - HTML 
 - CSS
 - SQL 
@@ -24,7 +25,8 @@ Buscando um novo desafio ingressei no curso de Análise e Desenvolvimento de Sis
 
 ## Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 
 ## GitHub Stats
